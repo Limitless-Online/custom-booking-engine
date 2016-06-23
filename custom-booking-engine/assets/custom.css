@@ -1,0 +1,22 @@
+.list-of-syndicates form#UploadForm {
+    
+}
+
+.list-of-syndicates .syndicate-upload-buttons #SubmitButton:hover {
+	background-position: 0 -26px;
+}
+.list-of-syndicates .syndicate-upload-buttons #SubmitButton {
+	background: url("images/bcknd-btns.png") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    float: left;
+    font-size: 14px;
+    height: 25px;
+    line-height: 24px;
+    margin: 10px 26px 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 135px;
+    border: none;
+    cursor: pointer;
+}
